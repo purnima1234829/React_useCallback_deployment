@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/%20React_useCallback_deployment/static/css/main.3fefbd5f.css",
+    "main.js": "/%20React_useCallback_deployment/static/js/main.e5102898.js",
+    "index.html": "/%20React_useCallback_deployment/index.html",
+    "main.3fefbd5f.css.map": "/%20React_useCallback_deployment/static/css/main.3fefbd5f.css.map",
+    "main.e5102898.js.map": "/%20React_useCallback_deployment/static/js/main.e5102898.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fefbd5f.css",
+    "static/js/main.e5102898.js"
+  ]
+}
